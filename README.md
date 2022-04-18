@@ -3,6 +3,8 @@
 ABSTRACT:
 Stock market also called as the equity market is the aggregation of sellers and buyers. It is concerned with the domain where the shares of various public listed companies are traded. For predicting the growth of economy, stock market acts as an index. Due to the nonlinear nature, the prediction of the stock market becomes a difficult task. But the application of various time series models has been becoming a powerful source for the prediction. These techniques employ historical data of the stocks for the training of time series models and help in predicting their future behavior.
 
+Link to the Stock-ers app: https://alexeibeuno.shinyapps.io/Stock-ers/?_ga=2.92594909.1126649841.1650303251-1011494410.1644594405
+
 PROBLEM STATEMENT:
 1.	To forecast closing prices of 30 companies under nifty fifty stocks for about 90 days.
 2.	To understand trends and patterns underlying in the historical data of each of the 30 companies.
@@ -60,3 +62,11 @@ B. Methods used for forecasting close prices of a company
 C. Test to check accuracy of our forecasts
 1. ADF Test
 2. Box-Ljung Test
+
+Team Members:
+Alexei Beuno. H - 21BDA01
+Rashmi S - 21BDA02
+Sneha - 21BDA30
+Shivanshi - 21BDA33
+Murrel Miranda - 21BDA36
+Shrimantha Satpati - 21BDA45
