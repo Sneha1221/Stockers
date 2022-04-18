@@ -65,9 +65,9 @@ C. Test to check accuracy of our forecasts
 
 Team Members:
 
-Alexei Beuno. H - 21BDA01
-Rashmi S - 21BDA02
-Sneha - 21BDA30
-Shivanshi - 21BDA33
-Murrel Miranda - 21BDA36
-Shrimantha Satpati - 21BDA45
+1. Alexei Beuno. H - 21BDA01
+2. Rashmi S - 21BDA02
+3. Sneha - 21BDA30
+4. Shivanshi - 21BDA33
+5. Murrel Miranda - 21BDA36
+6. Shrimantha Satpati - 21BDA45
