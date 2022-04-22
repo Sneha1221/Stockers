@@ -63,11 +63,3 @@ C. Test to check accuracy of our forecasts
 1. ADF Test
 2. Box-Ljung Test
 
-Team Members:
-
-1. Alexei Beuno. H - 21BDA01
-2. Rashmi S - 21BDA02
-3. Sneha - 21BDA30
-4. Shivanshi - 21BDA33
-5. Murrel Miranda - 21BDA36
-6. Shrimantha Satpati - 21BDA45
