@@ -63,3 +63,28 @@ C. Test to check accuracy of our forecasts
 1. ADF Test
 2. Box-Ljung Test
 
+This is how the UI looks like:
+1. Home tab:
+![1](https://user-images.githubusercontent.com/67053046/195774161-5f2a69b8-9e7f-4fde-b713-4325c754db2a.PNG)
+
+2. Data Visualization tab:
+![2](https://user-images.githubusercontent.com/67053046/195774259-51872fdf-242f-445c-a1d1-e89a593ccec2.PNG)
+
+3. Arima Forecast:
+![3](https://user-images.githubusercontent.com/67053046/195774317-79d842b0-ef23-4637-8658-da3a7ff1c795.PNG)
+
+4. Arima Components:
+![4](https://user-images.githubusercontent.com/67053046/195774388-9a449b85-ad76-47d9-ab3c-6e97e17d5c05.PNG)
+
+5. Market Indicators:
+![5](https://user-images.githubusercontent.com/67053046/195774469-dab65ffb-aa16-48a8-9f5c-cfef05416740.PNG)
+
+6. Adf and Box-Ljung test:
+![6](https://user-images.githubusercontent.com/67053046/195774547-4ed05e81-1955-434a-83b4-73953da8e2c2.PNG)
+
+7. Prophet model and it's components:
+![7](https://user-images.githubusercontent.com/67053046/195774628-9d9ea747-0d7b-4499-ab48-1b390edd03e6.PNG)
+
+
+
+
