@@ -1,9 +1,9 @@
 # STOCKERS
 
 TEAM MEMBERS:
-1. Alexei Beuno H |https://github.com/Alexeibeuno
+1. Alexei Beuno H | https://github.com/Alexeibeuno
 2. Rashmi S
-3. Sneha T |https://github.com/Sneha1221
+3. Sneha T | https://github.com/Sneha1221
 4. Murrel Miranda
 5. Shrimanta Satpati
 6. Shivanshi Maheshwari
