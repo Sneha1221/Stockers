@@ -1,12 +1,12 @@
 # STOCKERS
 
 TEAM MEMBERS:
-1. Alexei Beuno H | [Github](https://github.com/Alexeibeuno)
-2. Rashmi S
-3. Sneha T | https://github.com/Sneha1221
-4. Murrel Miranda
-5. Shrimanta Satpati
-6. Shivanshi Maheshwari
+1. Alexei Beuno H | [LinkedIn](https://www.linkedin.com/in/alexeibeunoh/) | [Github](https://github.com/Alexeibeuno)
+2. Rashmi S | [LinkedIn](https://www.linkedin.com/in/rashmi-s-91ab41170/)
+3. Sneha T | [LinkedIn](https://www.linkedin.com/in/sneha-t-a7a671223/)|[Github](https://github.com/Sneha1221)
+4. Murrel Miranda | [LinkedIn](https://www.linkedin.com/in/murrel-miranda-7287ab212/)
+5. Shrimanta Satpati | [LinkedIn](https://www.linkedin.com/in/shrimanta-satpati/)
+6. Shivanshi Maheshwari | [LinkedIn](https://www.linkedin.com/in/shivanshi-maheshwari/)
 
 ABSTRACT:
 Stock market also called as the equity market is the aggregation of sellers and buyers. It is concerned with the domain where the shares of various public listed companies are traded. For predicting the growth of economy, stock market acts as an index. Due to the nonlinear nature, the prediction of the stock market becomes a difficult task. But the application of various time series models has been becoming a powerful source for the prediction. These techniques employ historical data of the stocks for the training of time series models and help in predicting their future behavior.
