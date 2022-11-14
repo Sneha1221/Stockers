@@ -3,7 +3,7 @@
 TEAM MEMBERS:
 1. Alexei Beuno H       | [LinkedIn](https://www.linkedin.com/in/alexeibeunoh/)             | [Github](https://github.com/Alexeibeuno) |
 2. Rashmi S             | [LinkedIn](https://www.linkedin.com/in/rashmi-s-91ab41170/)       |
-3. Sneha T              | [LinkedIn](https://www.linkedin.com/in/sneha-t-a7a671223/)        | [Github](https://github.com/Sneha1221) |
+3. Sneha T              | [LinkedIn](https://www.linkedin.com/in/sneha1221/)                | [Github](https://github.com/Sneha1221) |
 4. Murrel Miranda       | [LinkedIn](https://www.linkedin.com/in/murrel-miranda-7287ab212/) |
 5. Shrimanta Satpati    | [LinkedIn](https://www.linkedin.com/in/shrimanta-satpati/)        |
 6. Shivanshi Maheshwari | [LinkedIn](https://www.linkedin.com/in/shivanshi-maheshwari/)     |
